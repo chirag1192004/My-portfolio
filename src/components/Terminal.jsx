@@ -92,7 +92,7 @@ const Terminal = ({ heroControlsRef, heroMeshRef }) => {
     return (
         <section id="terminal-interface">
             <div className="container">
-                <h2>Interactive CLI Demo</h2>
+                <h2>Interactive CLI Terminal</h2>
                 <div className="terminal-grid">
                     <ThreeScene sceneName="pc" containerId="pc-three-container" />
                     <div className="terminal-window">
