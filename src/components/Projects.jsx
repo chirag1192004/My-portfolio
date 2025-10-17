@@ -26,24 +26,24 @@ const Projects = () => {
             color: "#48bb78",
             title: "Loan Approval Prediction",
             description: "Automated loan approval process. Achieved a high accuracy of 94% by considering credit score and financial details. Addressed data imbalance using resampling and cost-sensitive learning, improving results by 13%.",
-            link: "https://github.com/chirag1192004/loan-approval-prediction",
+            link: "https://github.com/chirag1192004/ML/tree/main/Loan%20Approval",
             tags: ["Python", "ML", "Fintech"]
         },
         {
             icon: faCloud,
             color: "#63b3ed",
             title: "Weather Forecasting Web App",
-            description: "Designed an interactive, user-friendly interface using HTML5, CSS3, and JavaScript, enabling 95% of surveyed users to easily access weather data.",
-            link: "https://github.com/chirag1192004/weather-forecasting",
-            tags: ["HTML5", "JavaScript", "UI/UX"]
+            description: "Designed an interactive, full-stack, user-friendly interface using concept of machine learnning for introducing payment portal risky payment flagging by accuracy of 62 percent",
+            link: "https://github.com/chirag1192004/Payment_Portal",
+            tags: ["python", "streamlit" , "sql" , "UI/UX"]
         },
         {
             icon: faCode,
             color: "#f6ad55",
-            title: "Data Structure & Algo Repos",
-            description: "Hands-on experience with algorithms and data structures, resulting in improved coding skills and logic building speed. Includes C++ solutions for array operations and patterns.",
-            link: "https://github.com/Chirag-04",
-            tags: ["C++", "Algorithms", "OOPs"]
+            title: "https://github.com/chirag1192004/ML",
+            description: "a streamlit based ML directory consist some of my machine learning projects with code and explanation that directly launch the projects in streamlit app dicrising time and effort of user to run the project locally by 35 percent",
+            link: "https://github.com/chirag1192004/ML",
+            tags: ["python", "streamlit", "ML"]
         }
     ];
 
