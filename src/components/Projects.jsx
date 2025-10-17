@@ -32,7 +32,7 @@ const Projects = () => {
         {
             icon: faCloud,
             color: "#63b3ed",
-            title: "Weather Forecasting Web App",
+            title: "Payment_portal",
             description: "Designed an interactive, full-stack, user-friendly interface using concept of machine learnning for introducing payment portal risky payment flagging by accuracy of 62 percent",
             link: "https://github.com/chirag1192004/Payment_Portal",
             tags: ["python", "streamlit" , "sql" , "UI/UX"]
@@ -40,7 +40,7 @@ const Projects = () => {
         {
             icon: faCode,
             color: "#f6ad55",
-            title: "https://github.com/chirag1192004/ML",
+            title: "ML project's dashboard",
             description: "a streamlit based ML directory consist some of my machine learning projects with code and explanation that directly launch the projects in streamlit app dicrising time and effort of user to run the project locally by 35 percent",
             link: "https://github.com/chirag1192004/ML",
             tags: ["python", "streamlit", "ML"]
